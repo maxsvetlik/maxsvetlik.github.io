@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+
+  <title>My Projects</title>
+
+  <meta name="author" content="Max Svetlik" />
+
+  
+  <meta name="description" content="Projects that I've worked on">
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Maxwell Svetlik - The projects of Max Svetlik" href="http://localhost:4000/feed.xml" />
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="My Projects" />
+  
+
+   
+  <meta property="og:description" content="Projects that I've worked on">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/projects_personal/" />
+  <link rel="canonical" href="http://localhost:4000/projects_personal/" />
+  
+
+  
+  <meta property="og:image" content="http://localhost:4000/img/avatar-icon.jpg" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="My Projects" />
+  
+
+  
+  <meta name="twitter:description" content="Projects that I've worked on">
+  
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/img/avatar-icon.jpg" />
+  
+
+  
+
+  
+
+</head>
+
+
+  <body>
+
+    
+
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button><a class="navbar-brand" href="http://localhost:4000/">Maxwell Svetlik</a></div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="/publications">Publications</a></li>
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Projects</a>
+            <div class="navlinks-children">
+              <a href="/projects_professional">Professional</a>
+              <a href="/projects_personal">Personal</a>
+            </div>
+          </li>
+        </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="http://localhost:4000/">
+	      <img class="avatar-img" src="/img/avatar-icon.jpg" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>My Projects</h1>
+		  
+		    
+            <hr class="small">
+            <span class="page-subheading">Projects that I've worked on</span>
+			
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <h2 id="my-projects">My Projects</h2>
+<p>This a speed round of the different projects I’ve worked on for fun.</p>
+
+<h3 id="gouldboy-color---a-gameboy-color-emulator-written-in-c">Gouldboy Color - a GameBoy Color emulator written in C</h3>
+<p><img src="/img/gouldboy_color.png" alt="gameboy-color-emulator" /> <!-- width="336" height="200" alt="Gouldboy Color"> -->
+A gameboy emulator written by scratch in C. This was pitched as an alternative, independent project for my Advanced Computer Architecture course.</p>
+
+<p>It more/less fully implements a Zilog Z80 Hybrid CPU over ~1200 lines of code. Though nominally an 8-bit CPU, there are 2 16bit registers, one of which is the Stack      Pointer (SP) which allows for much more available memory (2^16 bits).</p>
+
+<p><a href="https://github.com/maxsvetlik/gouldboycolor">Link to project</a></p>
+
+<h3 id="skystatistics-a-full-stack-webserver-written-in-go">SkyStatistics a full-stack webserver written in Go</h3>
+<p><img src="/img/skywire_uptime.png" alt="Skystatistics-landing-page" /> <!-- width="336" height="200" alt="Skywire Uptime Server" -->
+A server written in Go that crawled the Skycoin / Skywire crytocurrency network and collected statistics on nodes connected to the network.</p>
+
+<p>The server would scrape the network periodically to build and maintain a database of connected nodes on the network. This allowed for statistics to be generated for a give node or node cluster.
+Why did I choose to make this? I participated in a network test of which I could receive rewards in my nodes had 75% uptime or more. However, there were no tools available for participants to check the uptime of their nodes. This was my solution to that.</p>
+
+<p>Months later, the Skywire Team released their similar tool. I have since stopped hosting / running the tool.</p>
+
+<h3 id="graphitime">Graphitime</h3>
+<p>This was another full-stack webserver written in Go. This tool allowed for users to create an account using Google credentials and upload photos of Graphiti.</p>
+
+<p>The tool logs the geolocation information of the photos and the images themselves, and creates a timeline of graphiti over time. Since graphiti can be covered up, this allows someone to pick a location and browse back in time to see the different tags.</p>
+
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="mailto:maxsvetlik@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email me</span>
+              </a>
+            </li><li><a href="https://www.facebook.com/maxsvetlik" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Facebook</span>
+              </a>
+            </li><li><a href="https://github.com/maxsvetlik" title="GitHub"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">GitHub</span>
+              </a>
+            </li><li><a href="https://linkedin.com/in/maxwell-svetlik-591b748b" title="LinkedIn"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">LinkedIn</span>
+              </a>
+            </li></ul>
+      <p class="copyright text-muted">
+      Max Svetlik
+      &nbsp;&bull;&nbsp;
+      2019
+
+      
+      &nbsp;&bull;&nbsp;
+      <a href="http://localhost:4000/">MaxSvetlik.github.io</a>
+      
+
+      
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Theme by
+      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+          document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/main.js"></script>
+    
+  
+
+
+  
+  </body>
+</html>
