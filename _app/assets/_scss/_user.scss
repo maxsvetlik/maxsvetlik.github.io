@@ -1,0 +1,47 @@
+//
+// User styles
+// -----------------------------------------------------------------------------
+// NOTE: the following user styles are designed for default theme Curtana
+
+// EXAMPLE: alternative title size
+// By default all heading levels have the same font size, but many people may
+// not like this, so here's an alternative font size stack:
+ .content {
+   h1 { font-size: 188%; opacity: .9; }
+   h2 { font-size: 158%; opacity: .8; }
+   h3 { font-size: 126%;  opacity: .7; }
+   h4 { font-size: 104%;  opacity: .7; }
+   h5 { font-size: 72%;  opacity: .7; }
+   h6 { font-size: 50%;  opacity: .7; }
+ }
+
+// EXAMPLE: alternative post title color
+// This is useful when you're using the custom color scheme.
+// .content { .list h2 a, header h1, header h1 a { color: var(--link-color); } }
+// .external span { background: var(--link-color); }
+
+// EXAMPLE: Custom typography for Chinese Traditional
+ :root {
+   --fontstack-sans-serif: "Helvetica Neue", Arial, sans-serif;
+   --fontstack-serif: Georgia, serif;
+ }
+
+// EXAMPLE: amsf.github.io custom appearance
+:root {
+  --link-color-h: 9;
+  --link-color-s: 56%;
+  --link-color-l: 49%;
+
+  --bg-color-h: 318;
+  --bg-color-s: 30%;
+  --bg-color-l: 100%;
+
+  
+  --code-color-h: calc(var(--link-color-h) + 10);
+  --code-color-s: calc(var(--link-color-s) * .2 + 40%);
+}
+
+.content .sub-title {
+  font-size: 108%;
+  opacity: .8;
+}

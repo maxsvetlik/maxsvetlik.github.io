@@ -1,0 +1,38 @@
+I"	<p><img src="../assets/img/gameboy/gouldboy_color.png" alt="Gouldboy Color IMG" style="width:100%; height:100%; margin-left: auto; margin-right:auto" /></p>
+
+<center>
+<a href="https://github.com/maxsvetlik/gouldboycolor"> Check out the project on GitHub </a>
+</center>
+<p><br /></p>
+
+<h1 id="at-a-glance">At a glance</h1>
+
+<h2 id="what-does-it-do">What does it do?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This project emulates the hardware of a Nintendo Gameboy Color on a desktop.
+</code></pre></div></div>
+
+<h2 id="what-is-it">What is it?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>A desktop application
+</code></pre></div></div>
+
+<h2 id="what-technologies-are-used">What technologies are used?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>C
+</code></pre></div></div>
+
+<h2 id="what-is-the-ambition-of-the-project">What is the ambition of the project?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>To learn and understand the lower level architecture of embedded hardware.
+This emulator successfully emulates the memory and CPU of a handheld device that was at one time the height of gaming.
+</code></pre></div></div>
+
+<p><br /></p>
+<h1 id="details">Details</h1>
+<p><br /></p>
+
+<p>Gouldboy Color is a Gameboy Color emulator written from scratch in C. This was pitched as an alternative, independent project for my Advanced Computer Architecture course at the University of Texas.<br />
+It implements over 100 CPU codes to perform essential tasks like mathematic operations, memory storage and manipulation, and graphics handling.</p>
+
+<p>This more/less fully implements a Zilog Z80 Hybrid CPU over ~1200 lines of code. Though nominally an 8-bit CPU, there are 2 16bit registers, one of which is the Stack Pointer (SP) which allows for much more available memory (2^16 bits).</p>
+
+<p>Not all titles are playable, as many games utilized tricks to squeeze as much performance out of the machine as possible. Many of these features are not well documented, if at all. Still, its usable and a very thourough lesson in implementing the essential CPU codes of a limited system.</p>
+
+:ET

@@ -1,0 +1,41 @@
+I"ü	<p><img src="../assets/img/revel/revel_egg.jpg" alt="Revel" style="width:100%; height:100%; margin-left: auto; margin-right:auto" /></p>
+
+<p>Designed and manufactured in the USA, Revel was the premiere robot product of my company <a href="https://svenzva.com">Svenzva Robotics</a>. It was designed to be capable robot arm for research and industry with an emphasis on affordability and low mass &amp; electrical footprint.</p>
+
+<p>Revel can carry 1.5 Kg at full reach, has a total reach of 63 cm, and can be taught quickly to automate tasks. Personally I have taught it to</p>
+<ul>
+  <li>propel itself on a skateboard</li>
+  <li>pick up a watering can and water potted plants</li>
+  <li>pick up a vinyl record and place it on a record player (<a href="https://www.youtube.com/watch?v=TcFCbBeEi78">watch</a>)</li>
+  <li>automate CNC workflows (<a href="https://www.youtube.com/watch?v=o8F8DLXMTv8">watch</a>)</li>
+</ul>
+
+<p><img src="../assets/img/revel/revel3.jpg" alt="Revel" style="width:95%; height:95%; margin-left: auto; margin-right:auto" /></p>
+
+<p>For full technical details please visit Revelâ€™s <a href="https://svenzva.com/revel/">product page</a>.</p>
+
+<h2 id="non-marketed-grippers">Non-marketed Grippers</h2>
+<p>Part of the appeal of the Revel Robotic Arm is that it is more customizable than traditional robot arms. A great example of that is add-on Gripper attachment that makes adding new gripper functionality simple and inexpensive.</p>
+
+<p>Through precisely manufactured rack-and-pinion fingers, I designed and fabricated the attachments for</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- a pressure insensitive drawing device that accepts a variety of utensils
+- a flexible thread-and-rod assembly for the making of string art
+- a vacuum suction gripper (see: https://a360.co/2VawAUk) 
+</code></pre></div></div>
+
+<p>along with a sound isolated vacuum system that made pick-n-place tasks a breeze.</p>
+
+<p><img src="../assets/img/revel/revel_rotate.gif" alt="Revel" style="width:100%; height:100%; margin-left: auto; margin-right:auto" /></p>
+
+<!--
+# Technical Details
+## Design Hardware
+Revel is made with aircraft-grade aluminum, machined and constructed in-house. 
+
+
+## Software Design
+Due to afforability and weight constraints, the motors used in the Revel arm do not actively sense torque exerted. Even so, Svenzva developed a dynamic model that allows the robot to be moved by an ourside force, like a human hand, while holding itself up under its own weight. 
+-->
+
+:ET

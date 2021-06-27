@@ -1,0 +1,31 @@
+I"/<p>Find me on <a href="https://scholar.google.com/citations?user=cbm9vaUAAAAJ&amp;hl=en">Google Scholar</a></p>
+
+<p>Here you’ll find varied research on robotics and AI that I’ve authored or co-authored. <br />
+Abstracts are produced here to summarize the contribution.</p>
+
+<h2 id="featured">Featured</h2>
+<h2 id="automatic-curriculum-graph-generation-for-reinforcement-learning-agents">Automatic curriculum graph generation for reinforcement learning agents</h2>
+<p>[<a href="https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AAAI17-Svetlik.pdf">Link</a>]<br />
+In recent years, research has shown that transfer learning methods can be leveraged to construct curricula that sequence a series of simpler tasks such that performance on a final target task is improved. A major limitation of existing approaches is that such curricula are handcrafted by humans that are typically domain experts. To address this limitation, we introduce a method to generate a curriculum based on task descriptors and a novel metric of transfer potential. Our method automatically generates a curriculum as a directed acyclic graph (as opposed to a linear sequence as done in existing work). Experiments in both discrete and continuous domains show that our method produces curricula that improve the agent’s learning performance when compared to the baseline condition of learning on the target task from scratch.</p>
+
+<h2 id="2021">2021</h2>
+<h2 id="an-open-source-framework-for-last-mile-delivery-with-heterogeneous-robots">An Open-Source Framework for Last Mile Delivery with Heterogeneous Robots</h2>
+<p>[<a href="https://repositories.lib.utexas.edu/bitstream/handle/2152/84819/SMADS_AAAI_SSS_2021.pdf?sequence=2">Link</a>]</p>
+
+<h2 id="synergies-between-affordance-and-geometry-6-dof-grasp-detection-via-implicit-representations">Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations</h2>
+<p>[<a href="https://arxiv.org/pdf/2104.01542">Link</a>]</p>
+
+<h2 id="2017">2017</h2>
+<h2 id="bwibots-a-platform-for-bridging-the-gap-between-ai-and-humanrobot-interaction-research">Bwibots: A platform for bridging the gap between ai and human–robot interaction research</h2>
+<p>[<a href="https://journals.sagepub.com/doi/pdf/10.1177/0278364916688949">Link</a>]</p>
+
+<h2 id="automatic-curriculum-graph-generation-for-reinforcement-learning-agents-1">Automatic curriculum graph generation for reinforcement learning agents</h2>
+<p>[<a href="https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AAAI17-Svetlik.pdf">Link</a>]</p>
+
+<h2 id="2016">2016</h2>
+<h2 id="learning-multi-modal-grounded-linguistic-semantics-by-playing-i-spy">Learning Multi-Modal Grounded Linguistic Semantics by Playing” I Spy”.</h2>
+<p>[<a href="https://www.cs.utexas.edu/~jsinapov/papers/thomason_ijcai16.pdf">Link</a>]</p>
+
+<h2 id="learning-to-order-objects-using-haptic-and-proprioceptive-exploratory-behaviors">Learning to Order Objects Using Haptic and Proprioceptive Exploratory Behaviors.</h2>
+<p>[<a href="https://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/IJCAI16-sinapov.pdf">Link</a>]</p>
+:ET

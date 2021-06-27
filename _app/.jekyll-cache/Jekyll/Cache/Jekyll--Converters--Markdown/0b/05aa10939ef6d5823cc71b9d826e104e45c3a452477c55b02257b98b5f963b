@@ -1,0 +1,11 @@
+I"<p>An un-marketed product of <a href="http://svenzva.com">Svenzva Robotics</a>, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.</p>
+
+<p><img src="../assets/img/animatronic_eyes/animatronic_eyes.jpg" alt="Animatronic eyes" style="width:100%; height:100%; margin-left: auto; margin-right:auto" /></p>
+
+<p>The eyes have been designed to be constructed out of aluminum base parts or 3D printed Resin, while the eyes themselves are hand-painted by suppliers of animatronics parts. The motion in the video below is powered by the <a href="https://www.pololu.com/product/1352">Mini Maestro</a> microcontroller. It also features independent, as well as synchronized, movement of the eyes.</p>
+
+<video width="1280" height="720" controls="">
+<source src="../assets/img/animatronic_eyes/resin_motion.mp4" type="video/mp4" />
+VIDEO NOT SUPPORTED
+</video>
+:ET

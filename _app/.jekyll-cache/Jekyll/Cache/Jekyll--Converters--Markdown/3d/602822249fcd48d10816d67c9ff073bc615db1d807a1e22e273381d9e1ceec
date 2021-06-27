@@ -1,0 +1,44 @@
+I"�<center>
+<a href="https://github.com/utexas-bwi/bluetooth_bridge"> Check out the project on GitHub </a>
+</center>
+<p><br /></p>
+
+<h1 id="at-a-glance">At a glance</h1>
+
+<h2 id="what-does-it-do">What does it do?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This library enables robots to communicate with each other while in close proximity over bluetooth. 
+It is specifically designed to share ROS messages to support multi-agent systems.
+</code></pre></div></div>
+
+<h2 id="what-is-it">What is it?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>A desktop or embedded application for robots.
+</code></pre></div></div>
+
+<h2 id="what-technologies-are-used">What technologies are used?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ROS, Python 3+, Py-serial, bluez, bluez-tools
+</code></pre></div></div>
+
+<h2 id="what-is-the-ambition-of-the-project">What is the ambition of the project?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>To ease the reliance on internet connectivity for intra-robot communication. This library is very promising to me, and I have a strong desire to continue development. 
+It has been tested and deployed on actual robots. Additional users would be helpful to help stress test the system and report what features are missing for their usecase.
+</code></pre></div></div>
+
+<p><br /></p>
+<h1 id="details">Details</h1>
+<p><br /></p>
+
+<p>This project was designed around a singular issue that was present in my robotics lab: robots needed to communicate their position with one another, but due to non-deterministic aberrations in wireless connectivity, messages would be lost, slow, out of order, or catastrophically dropped. For the project goal, robots passing each other reliably in the hallway, these networking issues were a major road block.</p>
+
+<p>The methodology I introduce with the <code class="language-plaintext highlighter-rouge">Bluetooth Bridge</code> library is to eliminate the need to internet connectivity completely. Since the robots need to share their location with other robots while near by, a local area data exchange would suffice. Bluetooth is a great candidate for this.</p>
+
+<p>The project’s <a href="https://github.com/utexas-bwi/bluetooth_bridge/blob/master/README.md">README</a> is comprehensive, so I won’t repeat it fully. The System contains the following components:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">bidirectional serial bridge</code> responsible for serializing and deserializing messages between robots</li>
+  <li><code class="language-plaintext highlighter-rouge">port manager interface</code> manages in/active connections to the bluetooth device</li>
+  <li><code class="language-plaintext highlighter-rouge">blueooth port manager</code> manages and interacts with the low level bluetooth driver interface</li>
+</ul>
+
+<p>The overall system can be seen below. One of the more exciting aspects of this is that <strong>it SCALES</strong>! You can run this on multiple robots and it will passively connect and disconnect when a robot is within range of the others.</p>
+
+<p><img src="../assets/img/bluetooth_bridge/bluetooth_bridge_flow.png" alt="Bluetooth Bridge system diag   " style="width:95%; height:95%; margin-left: auto; margin-right:auto" /></p>
+:ET

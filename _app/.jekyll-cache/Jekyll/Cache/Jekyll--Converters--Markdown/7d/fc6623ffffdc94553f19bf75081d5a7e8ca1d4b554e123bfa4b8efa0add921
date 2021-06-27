@@ -1,0 +1,36 @@
+I"�	<!-- Article wrapper, limit width -->
+<article>
+
+    <h2 class="image-title">
+    </h2>
+    <img src="../assets/img/max_with_dog.png" style="width:65%; height:65%; margin-left: auto; margin-right:auto" />
+
+</article>
+
+<h2 id="my-ethos">My ethos</h2>
+<p>I have a portfolio that is technical, creative and diverse. Most projects I embark upon require a multitude of separate and disparate skills, which displays different facets of the creative and inventive process.</p>
+
+<p>Though I have many interests, robotics directly appeals to this multidisciplinary approach. From designing circuits, hardware design in CAD, fabrication at the CNC and programming the end result, I’m all the things I need to be to build robots and make them useful.</p>
+
+<h2 id="my-skills">My Skills</h2>
+<p>I’ve been building robots since 2012, programming them since 2014 and designing them since 2016. It can be hard to put a number to some of the skills below, but I’ve been using <strong>ROS/Linux/Python/C/C++</strong> for robot programming and general software engineering for more than <strong>7 years</strong>.</p>
+
+<h3 id="software-and-frameworks">Software and Frameworks</h3>
+<p>Linux, Git, ROS, C/C++, Python, Golang, SQL, Java, Matlab, Docker, Reinforcement Learning, Curriculum Learning</p>
+
+<h3 id="hardware">Hardware</h3>
+<p>Solidworks, Fusion360, CAM, CNC, rapid prototyping (FDM, SLA, laser), soldering, welding,</p>
+
+<h2 id="my-history">My history</h2>
+<p>I received my BS in Computer Science at the University of Texas at Austin in 2016 after involving myself with the <a href="https://www.cs.utexas.edu/~larg/bwi_web/">Building Wide Intelligence</a> project early on and continuing until graduation.</p>
+
+<p>Since then I’ve <a href="/publications">published research</a> on Robotics and AI, worked at Robotics <a href="https://www.diligentrobots.com/">start-up companies</a> and co-founded my <a href="https://svenzva.com">own</a>. I’m currently a Research Engineer at the University of Texas at Austin’s <a href="https://robotics.utexas.edu/">Texas Robotics</a> supporting research efforts across 5 robotics labs on more than 10 types of ground-based vehicles and robotic manipulators.</p>
+
+<!-- 
+
+I have a porfolio that is technical, creative and diverse.
+My many different projects show difference facets of both creative and inventive process. I have a penchent for thinking outside of the box in new and exciting ways.
+My curiousity is an asset
+
+-->
+:ET

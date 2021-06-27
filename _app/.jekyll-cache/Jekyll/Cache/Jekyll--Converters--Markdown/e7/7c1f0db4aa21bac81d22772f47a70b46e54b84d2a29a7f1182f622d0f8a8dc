@@ -1,0 +1,62 @@
+I"�<p><img src="../assets/img/smads/smads.jpg" alt="SMADS Jackal Robot" style="width:65%; height:65%; margin-left: auto; margin-right:auto" /></p>
+<center>
+<a href="https://github.com/UTSMADS/smads_core"> Check out the project on GitHub </a>
+</center>
+<p><br /></p>
+
+<h1 id="at-a-glance">At a glance</h1>
+
+<h2 id="what-does-it-do">What does it do?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Enables an arbitrary autonomous robot to become a last-mile delivery robot for urban settings.
+</code></pre></div></div>
+
+<h2 id="what-is-it">What is it?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>A system archiecture and series of interfaces. The robot interface targets desktops, while the overall system includes an iOS app.
+</code></pre></div></div>
+
+<h2 id="what-technologies-are-used">What technologies are used?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ROS, Javascript, C, C++, Python, REST API
+</code></pre></div></div>
+
+<h2 id="what-is-the-ambition-of-the-project">What is the ambition of the project?</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>To provide a general framework that can be deployed among a heterogenous fleet of robots, with human-facing interactive elements that gives the user realtime feedback on the status of their order. 
+This project specifically tackles the problem of last-mile delivery, but could easily be extended and there are plans to extend the framework to indoor settings (i.e. entering buildings) as well.
+</code></pre></div></div>
+
+<p><br /></p>
+<h1 id="details">Details</h1>
+<p><br /></p>
+
+<p>The <a href="https://smads.netlify.app/">Short to Medium Autonomous Delivery System (SMADS)</a> framework enables an autonomous robot to carry out a last-mile delivery delivery task in an urban environment. <br />
+This framework is generic and is designed to be integrated and deployed on a heterogeneous fleet of robots that can each have their own unique hardware and autonomy algorithms.</p>
+
+<p>This project is part of <a href="https://bridgingbarriers.utexas.edu/good-systems/">Good Systems</a> at UT, which aims to fund projects that can utilize A.I. and technology to solve pressing societal problems. This project was deployed to deliver lemonade on the UT campus in the context of Covid-19. You can read a summary of the results and details of the system on our paper <a href="https://www.researchgate.net/publication/348874358_An_Open-Source_Framework_for_Last_Mile_Delivery_with_Heterogeneous_Robots">here</a>, read press coverage <a href="https://www.kxan.com/news/local/austin/lemonade-via-robots-ut-research-project-looks-into-responsible-artificial-intelligence/">here</a> and watch a <a href="https://www.youtube.com/watch?v=PdhIKiKmwAQ">panel video</a> centered around how this project addresses AI challenges.</p>
+
+<h2 id="contributions">Contributions</h2>
+<p>My main contribution to the project was in system architecture design and software-hardware integration and testing with the robot fleet available at UT.<br />
+The primary repository that contains the architecture can be found <a href="https://github.com/UTSMADS/smads_core">here</a> and broadly contains the following elements:</p>
+
+<p><img src="../assets/img/smads/robot_interface.png" alt="SMADS Robot Interface" style="width:50%; height:50%; margin-left: auto; margin-right:auto" /></p>
+
+<ul>
+  <li>Message translator : A module to translate incoming and outgoing messages to a standardized form so the rest of the system can be message-agnostic</li>
+  <li>Autonomy interface : A module that will interact with the robot’s underlying autonomy algorithms for control and state information</li>
+  <li>Robot Server : the module responsible for bridging communication between the robot and the central Management Server. This is facilitated via REST calls.</li>
+</ul>
+
+<p>This is a simplified view of the robot-centric portion of the architecture. A more complete system diagram can be seen below.</p>
+
+<p><img src="../assets/img/smads/smads_arch.png" alt="SMADS  arch" style="width:50%; height:50%; margin-left: auto; margin-right:auto" /></p>
+
+<h3 id="generality-is-key">Generality is Key</h3>
+<p>One aspect of the project that I’m particularly proud of is the introspective and general nature of message translation. Since the system assumes the robots use ROS for basic data transfer between autonomy components, there is always the problem of including these message definitions at compile time. <br />
+The issue is that knowing the message types apriori cuts against the premise of generality. To mitigate this, the system can be extended to accommodate a number of serialized messages without explicitly compiling against them.</p>
+
+<p>This schema can be updated through feature updates as more and more robots use the system, without greatly impacting the other users of the system.</p>
+
+<h3 id="deployment">Deployment</h3>
+<p>Details of the deployment can be found in the publication linked above, but two different robots were deployed over a 5 day period during business hours as part of a “robot lemonade stand” making numerous trips on the campus at the University of Texas. Users ordered lemonade through an iOS app which triggered the robot (preloaded with a can of lemonade) to begin navigation to the customer.</p>
+
+<h3 id="simulation">Simulation</h3>
+<p>I assembled an easy to use simulation that helped test the system without having to deploy the robot in the real world. This simulator can be found <a href="https://github.com/UTSMADS/ut_smads_simulation">here</a>.</p>
+:ET

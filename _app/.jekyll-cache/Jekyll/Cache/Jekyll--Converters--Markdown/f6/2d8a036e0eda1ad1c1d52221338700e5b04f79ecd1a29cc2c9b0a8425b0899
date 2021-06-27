@@ -1,0 +1,12 @@
+I"4<h2 id="linux-screen-command-reference">Linux Screen command reference</h2>
+
+<p>Create a new window : Ctl+a c<br />
+List windows: <code class="language-plaintext highlighter-rouge">Ctl+a "</code><br />
+Switch window: <code class="language-plaintext highlighter-rouge">Ctl+a N</code>, for number N<br />
+Split horizontal:  <code class="language-plaintext highlighter-rouge">Ctl+a S</code><br />
+Split vertical: <code class="language-plaintext highlighter-rouge">Ctl+a |</code><br />
+Switch focus: <code class="language-plaintext highlighter-rouge">Ctl+a tab</code><br />
+Close region: <code class="language-plaintext highlighter-rouge">Ctl+a X</code><br />
+Detach: <code class="language-plaintext highlighter-rouge">Ctl+a d</code><br />
+Reattach: <code class="language-plaintext highlighter-rouge">$ screen -r</code></p>
+:ET

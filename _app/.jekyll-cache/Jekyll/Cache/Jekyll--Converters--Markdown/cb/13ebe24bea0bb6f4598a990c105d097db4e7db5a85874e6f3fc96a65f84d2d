@@ -1,0 +1,33 @@
+I"�<p>[</p>
+
+<p>{% assign first = true %}<br />
+{%- include amsf/core -%}</p>
+
+<p>{% for post in site.posts %}<br />
+  {% if post.hidden != true %}<br />
+    {% unless first %},{% endunless %}<br />
+    {<br />
+      “title”: {{ post.title | jsonify }},<br />
+      “permalink”: {{ post.url | absolute_url | jsonify }},<br />
+      “link”: {{ post.url | absolute_url | jsonify }},<br />
+      “date”: {{ post.date | date_to_xmlschema | jsonify }},<br />
+      {% if post.last_modified_at %}<br />
+        “modified”: {{ post.last_modified_at | date_to_xmlschema | jsonify }},<br />
+      {% endif %}<br />
+      “author”: {<br />
+        “name”: {{ author.name | jsonify }},<br />
+        “url”: {{ author.web | jsonify }},<br />
+        “email”: {{ author.email | jsonify }}<br />
+      },<br />
+      “content”: {{ post.content | markdownify | strip | jsonify }},<br />
+      “excerpt”: {{ post.excerpt | markdownify | strip_html | strip | jsonify }},<br />
+      “languages”: {{ post.lang | jsonify }},<br />
+      “categories”: {{ post.categories | jsonify }},<br />
+      “tags”: {{ post.tags | jsonify }}<br />
+    }<br />
+    {% assign first = false %}<br />
+  {% endif %}<br />
+{% endfor %}</p>
+
+<p>]</p>
+:ET
