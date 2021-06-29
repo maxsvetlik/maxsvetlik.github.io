@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Maxwell Svetlik</title><subtitle>Human Roboticist</subtitle><updated>2021-06-29T02:59:33+00:00</updated><id>http://maxwellsvetlik.com/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="http://maxwellsvetlik.com/" /><link rel="self" type="application/atom+xml" href="http://maxwellsvetlik.com/feed.xml" /><author><name>Maxwell Svetlik</name><uri>http://maxwellsvetlik.com/</uri><email>maxsvetlik@gmail.com</email></author><entry><title>Screen commands</title><id>http://maxwellsvetlik.com/using-screen.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/using-screen.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T20:56:59+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Maxwell Svetlik</title>
+  <subtitle>Human Roboticist</subtitle>
+  <updated>2021-06-29T03:08:47+00:00</updated>
+  <id>http://maxwellsvetlik.com/</id>
+  <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator>
+
+  <link rel="alternate" type="text/html" hreflang="en" href="http://maxwellsvetlik.com/" />
+  <link rel="self" type="application/atom+xml" href="http://maxwellsvetlik.com/feed.xml" />
+
+  <author>
+    <name>Maxwell Svetlik</name>
+    <uri>http://maxwellsvetlik.com/</uri>
+    <email>maxsvetlik@gmail.com</email>
+  </author>
+
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Screen commands</title>
+        <id>http://maxwellsvetlik.com/using-screen.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/using-screen.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T20:56:59+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;linux-screen-command-reference&quot;&gt;Linux Screen command reference&lt;/h2&gt;
 
@@ -16,7 +54,36 @@ Reattach: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$ s
           
         
       
-        </content><summary>Linux Screen command reference</summary></entry><entry><title>1980 Volkswagon Vangon Restoration</title><id>http://maxwellsvetlik.com/vanagon.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/vanagon.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T19:47:04+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Linux Screen command reference</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>1980 Volkswagon Vangon Restoration</title>
+        <id>http://maxwellsvetlik.com/vanagon.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/vanagon.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T19:47:04+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/van/1.jpg&quot; alt=&quot;Vanagon received product&quot; style=&quot;width:80%; height:80%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
@@ -54,7 +121,36 @@ The following summers I traveled along the east coast.&lt;/p&gt;
           
         
       
-        </content><summary></summary></entry><entry><title>SMADS Autonomous Delivery</title><id>http://maxwellsvetlik.com/smads.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/smads.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T22:18:17+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary></summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>SMADS Autonomous Delivery</title>
+        <id>http://maxwellsvetlik.com/smads.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/smads.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-29T03:08:02+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/smads/smads.jpg&quot; alt=&quot;SMADS Jackal Robot&quot; style=&quot;width:65%; height:65%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;
@@ -94,7 +190,7 @@ This framework is generic and is designed to be integrated and deployed on a het
 &lt;p&gt;My main contribution to the project was in system architecture design and software-hardware integration and testing with the robot fleet available at UT.&lt;br /&gt;
 The primary repository that contains the architecture can be found &lt;a href=&quot;https://github.com/UTSMADS/smads_core&quot;&gt;here&lt;/a&gt; and broadly contains the following elements:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/smads/robot_interface.png&quot; alt=&quot;SMADS Robot Interface&quot; style=&quot;width:50%; height:50%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/svg/robot_interface.svg&quot; alt=&quot;SMADS Robot Interface&quot; style=&quot;width:50%; height:50%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Message translator : A module to translate incoming and outgoing messages to a standardized form so the rest of the system can be message-agnostic&lt;/li&gt;
@@ -104,7 +200,7 @@ The primary repository that contains the architecture can be found &lt;a href=&q
 
 &lt;p&gt;This is a simplified view of the robot-centric portion of the architecture. A more complete system diagram can be seen below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/smads/smads_arch.png&quot; alt=&quot;SMADS  arch&quot; style=&quot;width:85%; height:85%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/svg/full_system_diag.svg&quot; alt=&quot;SMADS  arch&quot; style=&quot;width:85%; height:85%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;generality-is-key&quot;&gt;Generality is Key&lt;/h3&gt;
 &lt;p&gt;One aspect of the project that I’m particularly proud of is the introspective and general nature of message translation. Since the system assumes the robots use ROS for basic data transfer between autonomy components, there is always the problem of including these message definitions at compile time. &lt;br /&gt;
@@ -122,7 +218,36 @@ The issue is that knowing the message types apriori cuts against the premise of 
           
         
       
-        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Skylark Continuum Tendon Robot Arm</title><id>http://maxwellsvetlik.com/skylark.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/skylark.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-29T02:47:37+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary> Check out the project on GitHub </summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Skylark Continuum Tendon Robot Arm</title>
+        <id>http://maxwellsvetlik.com/skylark.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/skylark.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-29T02:47:37+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/skylark/1.jpg&quot; alt=&quot;Skylark&quot; style=&quot;width:95%; height:95%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
@@ -158,7 +283,36 @@ VIDEO NOT SUPPORTED
           
         
       
-        </content><summary></summary></entry><entry><title>Seeing Sound</title><id>http://maxwellsvetlik.com/seeing-sound.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/seeing-sound.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-21T21:32:21+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary></summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Seeing Sound</title>
+        <id>http://maxwellsvetlik.com/seeing-sound.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/seeing-sound.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-21T21:32:21+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
 
@@ -166,7 +320,36 @@ VIDEO NOT SUPPORTED
           
         
       
-        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Scavenger Hunt Robot Interface</title><id>http://maxwellsvetlik.com/scavenger-interface.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/scavenger-interface.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T15:56:14+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Coming soon to a screen near you</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Scavenger Hunt Robot Interface</title>
+        <id>http://maxwellsvetlik.com/scavenger-interface.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/scavenger-interface.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T15:56:14+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;center&gt;
 &lt;a href=&quot;https://github.com/utexas-bwi/scavenger_interface&quot;&gt; Check out the project on GitHub &lt;/a&gt;
@@ -208,7 +391,36 @@ Introduced in &lt;strong&gt;A Scavenger Hunt for Service Robots&lt;/strong&gt; b
           
         
       
-        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Autonomous Robotic String Art</title><id>http://maxwellsvetlik.com/robot-string-art.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/robot-string-art.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T16:04:48+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary> Check out the project on GitHub </summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Autonomous Robotic String Art</title>
+        <id>http://maxwellsvetlik.com/robot-string-art.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/robot-string-art.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T16:04:48+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/string_art/revel_yarn_art.gif&quot; alt=&quot;Revel Yarn Art&quot; style=&quot;width:85%; height:85%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;
@@ -256,7 +468,36 @@ The gcode is generated based on a parameterized file that specifies the physics 
           
         
       
-        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Revel Robot Arm</title><id>http://maxwellsvetlik.com/revel.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/revel.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T20:55:45+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary> Check out the project on GitHub </summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Revel Robot Arm</title>
+        <id>http://maxwellsvetlik.com/revel.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/revel.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T20:55:45+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/revel/revel_egg.jpg&quot; alt=&quot;Revel&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
@@ -303,7 +544,36 @@ Due to afforability and weight constraints, the motors used in the Revel arm do 
           
         
       
-        </content><summary></summary></entry><entry><title>Poli the Socially Intelligent Robot</title><id>http://maxwellsvetlik.com/poli-robot.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/poli-robot.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-29T02:45:58+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary></summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Poli the Socially Intelligent Robot</title>
+        <id>http://maxwellsvetlik.com/poli-robot.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/poli-robot.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-29T02:45:58+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/poli/poli_face.jpg&quot; alt=&quot;Poli face&quot; style=&quot;width:300px; height:300px; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
@@ -333,7 +603,36 @@ The social expression was achieved primarily through two additional areas: aesth
           
         
       
-        </content><summary></summary></entry><entry><title>Menuboard / Booth Dividers</title><id>http://maxwellsvetlik.com/pegboard-botth-dividers.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/pegboard-botth-dividers.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T16:55:50+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary></summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Menuboard / Booth Dividers</title>
+        <id>http://maxwellsvetlik.com/pegboard-botth-dividers.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/pegboard-botth-dividers.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T16:55:50+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
 
@@ -341,7 +640,36 @@ The social expression was achieved primarily through two additional areas: aesth
           
         
       
-        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Munchies for your Mind</title><id>http://maxwellsvetlik.com/mind-munchies.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/mind-munchies.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-21T21:32:11+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Coming soon to a screen near you</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Munchies for your Mind</title>
+        <id>http://maxwellsvetlik.com/mind-munchies.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/mind-munchies.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-21T21:32:11+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
 
@@ -349,7 +677,36 @@ The social expression was achieved primarily through two additional areas: aesth
           
         
       
-        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Goldboy Color Emulator</title><id>http://maxwellsvetlik.com/goldboy-color-emulator.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/goldboy-color-emulator.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T19:31:26+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Coming soon to a screen near you</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Goldboy Color Emulator</title>
+        <id>http://maxwellsvetlik.com/goldboy-color-emulator.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/goldboy-color-emulator.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T19:31:26+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/gameboy/gouldboy_color.png&quot; alt=&quot;Gouldboy Color IMG&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
@@ -393,7 +750,36 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
           
         
       
-        </content><summary></summary></entry><entry><title>Cajon</title><id>http://maxwellsvetlik.com/cajon.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/cajon.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-21T21:32:24+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary></summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Cajon</title>
+        <id>http://maxwellsvetlik.com/cajon.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/cajon.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-21T21:32:24+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
 
@@ -401,7 +787,36 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
           
         
       
-        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Brass Knox Guitar Bridge</title><id>http://maxwellsvetlik.com/brassknox-guitar-bridge.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/brassknox-guitar-bridge.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-29T02:20:17+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Coming soon to a screen near you</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Brass Knox Guitar Bridge</title>
+        <id>http://maxwellsvetlik.com/brassknox-guitar-bridge.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/brassknox-guitar-bridge.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-29T02:20:17+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/brass_knox/2.jpg&quot; alt=&quot;Aluminum prototype&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
@@ -418,7 +833,36 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
           
         
       
-        </content><summary></summary></entry><entry><title>Animatronic Eyes</title><id>http://maxwellsvetlik.com/animatronic-eyes.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animatronic-eyes.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T20:17:29+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary></summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Animatronic Eyes</title>
+        <id>http://maxwellsvetlik.com/animatronic-eyes.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animatronic-eyes.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-27T20:17:29+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;An un-marketed product of &lt;a href=&quot;http://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.&lt;/p&gt;
 
@@ -435,7 +879,36 @@ VIDEO NOT SUPPORTED
           
         
       
-        </content><summary>An un-marketed product of Svenzva Robotics, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.</summary></entry><entry><title>Animated Illusions</title><id>http://maxwellsvetlik.com/animated-illusions.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animated-illusions.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-21T21:32:37+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>An un-marketed product of Svenzva Robotics, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Animated Illusions</title>
+        <id>http://maxwellsvetlik.com/animated-illusions.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animated-illusions.html" />
+        <published>2020-06-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-21T21:32:37+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
 
@@ -443,7 +916,36 @@ VIDEO NOT SUPPORTED
           
         
       
-        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Multiagent Bluetooth Manager</title><id>http://maxwellsvetlik.com/bluetooth-manager.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/bluetooth-manager.html" /><published>2020-06-17T00:00:00+00:00</published><updated>2021-06-29T02:49:19+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Coming soon to a screen near you</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Multiagent Bluetooth Manager</title>
+        <id>http://maxwellsvetlik.com/bluetooth-manager.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/bluetooth-manager.html" />
+        <published>2020-06-17T00:00:00+00:00</published>
+
+        
+          <updated>2021-06-29T02:49:19+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;center&gt;
 &lt;a href=&quot;https://github.com/utexas-bwi/bluetooth_bridge&quot;&gt; Check out the project on GitHub &lt;/a&gt;
@@ -493,7 +995,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Upgrading Guide from v1 to v2</title><id>http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html" /><published>2018-07-23T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary> Check out the project on GitHub </summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Upgrading Guide from v1 to v2</title>
+        <id>http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html" />
+        <published>2018-07-23T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to &lt;a href=&quot;https://github.com/sparanoid/almace-scaffolding/pull/85&quot;&gt;this Pull Request&lt;/a&gt; side to side to make sure every change you made are synced correctly.&lt;/p&gt;
 
@@ -519,7 +1050,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to this Pull Request side to side to make sure every change you made are synced correctly.</summary></entry><entry><title>Upgrading Guide: v1.1.0</title><id>http://maxwellsvetlik.com/upgrading-guide-v1.1.0.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/upgrading-guide-v1.1.0.html" /><published>2017-01-07T00:00:00+00:00</published><updated>2017-01-11T03:17:09+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to this Pull Request side to side to make sure every change you made are synced correctly.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Upgrading Guide: v1.1.0</title>
+        <id>http://maxwellsvetlik.com/upgrading-guide-v1.1.0.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/upgrading-guide-v1.1.0.html" />
+        <published>2017-01-07T00:00:00+00:00</published>
+
+        
+          <updated>2017-01-11T03:17:09+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.&lt;/p&gt;
 
@@ -544,7 +1104,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.</summary></entry><entry><title>Open Graph</title><id>http://maxwellsvetlik.com/open-graph.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/open-graph.html" /><published>2017-01-06T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Open Graph</title>
+        <id>http://maxwellsvetlik.com/open-graph.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/open-graph.html" />
+        <published>2017-01-06T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Theme Curtana has full Open Graph and Twitter Cards support.&lt;/p&gt;
 
@@ -567,7 +1156,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary></entry><entry><title>Jekyll Theme Compatibility</title><id>http://maxwellsvetlik.com/jekyll-theme-compatibility.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/jekyll-theme-compatibility.html" /><published>2016-11-07T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Jekyll Theme Compatibility</title>
+        <id>http://maxwellsvetlik.com/jekyll-theme-compatibility.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/jekyll-theme-compatibility.html" />
+        <published>2016-11-07T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;With the recent release of Jekyll, it gets the built-in ability to support &lt;a href=&quot;https://jekyllrb.com/docs/themes/&quot;&gt;themes&lt;/a&gt;, since we’ve already added theme support in 2015, the original config variables &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; would be conflicted with the built-in one.&lt;/p&gt;
 
@@ -583,7 +1201,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>With the recent release of Jekyll, it gets the built-in ability to support themes, since we’ve already added theme support in 2015, the original config variables theme would be conflicted with the built-in one.</summary></entry><entry><title>Introducing Curtana</title><id>http://maxwellsvetlik.com/theme-curtana.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/theme-curtana.html" /><published>2016-06-01T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>With the recent release of Jekyll, it gets the built-in ability to support themes, since we’ve already added theme support in 2015, the original config variables theme would be conflicted with the built-in one.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Introducing Curtana</title>
+        <id>http://maxwellsvetlik.com/theme-curtana.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/theme-curtana.html" />
+        <published>2016-06-01T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Curtana is the default theme of &lt;a href=&quot;https://sparanoid.com/lab/amsf/&quot;&gt;AMSF&lt;/a&gt; (Almace Scaffolding).&lt;/p&gt;
 
@@ -605,7 +1252,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>Curtana is the default theme of AMSF (Almace Scaffolding).</summary></entry><entry><title>Deployment Methods</title><id>http://maxwellsvetlik.com/deployment-methods.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/deployment-methods.html" /><published>2016-03-18T00:00:00+00:00</published><updated>2021-03-13T04:33:14+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Curtana is the default theme of AMSF (Almace Scaffolding).</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Deployment Methods</title>
+        <id>http://maxwellsvetlik.com/deployment-methods.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/deployment-methods.html" />
+        <published>2016-03-18T00:00:00+00:00</published>
+
+        
+          <updated>2021-03-13T04:33:14+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to &lt;a href=&quot;https://jekyllrb.com/docs/deployment-methods/&quot;&gt;Jekyll - Deployment methods&lt;/a&gt;.&lt;/p&gt;
 
@@ -643,7 +1319,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to Jekyll - Deployment methods.</summary></entry><entry><title>Multiple Themes Support</title><id>http://maxwellsvetlik.com/multiple-themes-support.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/multiple-themes-support.html" /><published>2015-08-18T00:00:00+00:00</published><updated>2017-01-20T09:00:20+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to Jekyll - Deployment methods.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Multiple Themes Support</title>
+        <id>http://maxwellsvetlik.com/multiple-themes-support.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/multiple-themes-support.html" />
+        <published>2015-08-18T00:00:00+00:00</published>
+
+        
+          <updated>2017-01-20T09:00:20+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See &lt;a href=&quot;/themes.html&quot;&gt;Themes&lt;/a&gt; for more information.&lt;/p&gt;
 
@@ -651,7 +1356,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See Themes for more information.</summary></entry><entry><title>Welcome</title><id>http://maxwellsvetlik.com/welcome.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/welcome.html" /><published>2014-06-13T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See Themes for more information.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Welcome</title>
+        <id>http://maxwellsvetlik.com/welcome.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/welcome.html" />
+        <published>2014-06-13T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;AMSF, a.k.a. &lt;strong&gt;Almace Scaffolding&lt;/strong&gt;, is a super-fast Jekyll framework fighting against the website obesity. It supports LiveReload, Sass, HTML minification, inlined stylesheets and more.&lt;/p&gt;
 
@@ -686,7 +1420,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>AMSF, a.k.a. Almace Scaffolding, is a super-fast Jekyll framework fighting against the website obesity. It supports LiveReload, Sass, HTML minification, inlined stylesheets and more.</summary></entry><entry><title>Getting Started</title><id>http://maxwellsvetlik.com/getting-started.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/getting-started.html" /><published>2014-06-12T00:00:00+00:00</published><updated>2021-03-11T06:20:42+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>AMSF, a.k.a. Almace Scaffolding, is a super-fast Jekyll framework fighting against the website obesity. It supports LiveReload, Sass, HTML minification, inlined stylesheets and more.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Getting Started</title>
+        <id>http://maxwellsvetlik.com/getting-started.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/getting-started.html" />
+        <published>2014-06-12T00:00:00+00:00</published>
+
+        
+          <updated>2021-03-11T06:20:42+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
 
@@ -756,7 +1519,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>Requirements</summary></entry><entry><title>Customizing Styles</title><id>http://maxwellsvetlik.com/customizing-styles.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/customizing-styles.html" /><published>2014-06-11T00:00:00+00:00</published><updated>2019-02-19T06:51:32+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Requirements</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Customizing Styles</title>
+        <id>http://maxwellsvetlik.com/customizing-styles.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/customizing-styles.html" />
+        <published>2014-06-11T00:00:00+00:00</published>
+
+        
+          <updated>2019-02-19T06:51:32+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;You can customize the basic look and feel without touching the theme files by changing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;user.js&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;user.scss&lt;/code&gt;:&lt;/p&gt;
 
@@ -776,7 +1568,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>You can customize the basic look and feel without touching the theme files by changing user.js and user.scss:</summary></entry><entry><title>Configuration</title><id>http://maxwellsvetlik.com/configuration.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/configuration.html" /><published>2014-06-11T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>You can customize the basic look and feel without touching the theme files by changing user.js and user.scss:</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Configuration</title>
+        <id>http://maxwellsvetlik.com/configuration.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/configuration.html" />
+        <published>2014-06-11T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;configuration-settings&quot;&gt;Configuration Settings&lt;/h2&gt;
 
@@ -801,7 +1622,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>Configuration Settings</summary></entry><entry><title>Themes</title><id>http://maxwellsvetlik.com/themes.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/themes.html" /><published>2014-06-10T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Configuration Settings</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Themes</title>
+        <id>http://maxwellsvetlik.com/themes.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/themes.html" />
+        <published>2014-06-10T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
@@ -860,7 +1710,36 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary>Overview</summary></entry><entry><title>Creating Your Own Theme</title><id>http://maxwellsvetlik.com/creating-themes.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/creating-themes.html" /><published>2014-06-09T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Overview</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Creating Your Own Theme</title>
+        <id>http://maxwellsvetlik.com/creating-themes.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/creating-themes.html" />
+        <published>2014-06-09T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
@@ -1188,7 +2067,36 @@ Reading time: 3 hrs 20 mins
           
         
       
-        </content><summary>Overview</summary></entry><entry><title>Syntax Highlighting</title><id>http://maxwellsvetlik.com/syntax-highlighting.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/syntax-highlighting.html" /><published>2014-06-06T00:00:00+00:00</published><updated>2018-10-15T17:28:58+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Overview</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Syntax Highlighting</title>
+        <id>http://maxwellsvetlik.com/syntax-highlighting.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/syntax-highlighting.html" />
+        <published>2014-06-06T00:00:00+00:00</published>
+
+        
+          <updated>2018-10-15T17:28:58+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Code highlighting demo, powered by Rouge. More info about code highlighting can be found at &lt;a href=&quot;https://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll’s documentation&lt;/a&gt;.&lt;/p&gt;
 
@@ -1490,7 +2398,36 @@ and &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&
           
         
       
-        </content><summary>Code highlighting demo, powered by Rouge. More info about code highlighting can be found at Jekyll’s documentation.</summary></entry><entry><title>Markdown Features Test</title><id>http://maxwellsvetlik.com/markdown-features-test.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/markdown-features-test.html" /><published>2014-06-06T00:00:00+00:00</published><updated>2018-08-10T14:04:53+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Code highlighting demo, powered by Rouge. More info about code highlighting can be found at Jekyll’s documentation.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Markdown Features Test</title>
+        <id>http://maxwellsvetlik.com/markdown-features-test.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/markdown-features-test.html" />
+        <published>2014-06-06T00:00:00+00:00</published>
+
+        
+          <updated>2018-08-10T14:04:53+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;indented-code-blocks&quot;&gt;Indented Code Blocks&lt;/h2&gt;
 
@@ -1625,7 +2562,36 @@ end
           
         
       
-        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>http://maxwellsvetlik.com/markup-example.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/markup-example.html" /><published>2014-06-05T00:00:00+00:00</published><updated>2018-08-24T06:51:53+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Indented Code Blocks</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Markup Example</title>
+        <id>http://maxwellsvetlik.com/markup-example.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/markup-example.html" />
+        <published>2014-06-05T00:00:00+00:00</published>
+
+        
+          <updated>2018-08-24T06:51:53+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying &lt;a href=&quot;#&quot;&gt;crowded market&lt;/a&gt; pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.&lt;/p&gt;
 
@@ -1869,7 +2835,36 @@ Careful Skippy, you really aren’t as convincing as you think you are.&lt;/p&gt
           
         
       
-        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary></entry><entry><title>Custom HTML Markups</title><id>http://maxwellsvetlik.com/custom-html-markups.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-html-markups.html" /><published>2014-06-01T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Custom HTML Markups</title>
+        <id>http://maxwellsvetlik.com/custom-html-markups.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-html-markups.html" />
+        <published>2014-06-01T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;note-store-and-download&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.note&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.store&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.download&lt;/code&gt;&lt;/h2&gt;
 
@@ -2003,7 +2998,36 @@ Love this plugin? please consider &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
           
         
       
-        </content><summary>.note, .store, and .download</summary></entry><entry><title>Custom Color Scheme</title><id>http://maxwellsvetlik.com/custom-color-scheme.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-color-scheme.html" /><published>2014-05-01T00:00:00+00:00</published><updated>2018-08-10T14:04:53+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>.note, .store, and .download</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Custom Color Scheme</title>
+        <id>http://maxwellsvetlik.com/custom-color-scheme.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-color-scheme.html" />
+        <published>2014-05-01T00:00:00+00:00</published>
+
+        
+          <updated>2018-08-10T14:04:53+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;This is an example how to change your post color scheme for specific posts. You can simply add the following variables to your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -2026,7 +3050,36 @@ scheme-hero-bg: &quot;#0029ff&quot;
           
         
       
-        </content><summary>This is an example how to change your post color scheme for specific posts. You can simply add the following variables to your post front-matter field:</summary></entry><entry><title>Unique Post Styling via Custom CSS</title><id>http://maxwellsvetlik.com/custom-css.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-css.html" /><published>2014-04-01T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>This is an example how to change your post color scheme for specific posts. You can simply add the following variables to your post front-matter field:</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Unique Post Styling via Custom CSS</title>
+        <id>http://maxwellsvetlik.com/custom-css.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-css.html" />
+        <published>2014-04-01T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;This is an example how to change your post styling via CSS. You can simply add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;css&lt;/code&gt; option to your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -2046,7 +3099,38 @@ css: |
           
         
       
-        </content><summary>This is an example how to change your post styling via CSS. You can simply add the css option to your post front-matter field:</summary></entry><entry><title>External Link Post</title><id>http://maxwellsvetlik.com/external-link-post.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/external-link-post.html" /><published>2014-02-01T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>This is an example how to change your post styling via CSS. You can simply add the css option to your post front-matter field:</summary>
+        
+      </entry>
+    
+  
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>External Link Post</title>
+        <id>http://maxwellsvetlik.com/external-link-post.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/external-link-post.html" />
+        <published>2014-02-01T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;This is an example of a Tumblr-like external link post. You can simply add the following setting to your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -2059,7 +3143,36 @@ css: |
           &lt;p&gt;&lt;a href=&quot;https://sparanoid.com/&quot;&gt;&lt;small&gt;◉ Direct Link to Original Site&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
         
       
-        </content><summary>This is an example of a Tumblr-like external link post. You can simply add the following setting to your post front-matter field:</summary></entry><entry><title>Custom Heading Image</title><id>http://maxwellsvetlik.com/custom-heading-image.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-heading-image.html" /><published>2014-02-01T00:00:00+00:00</published><updated>2018-08-10T14:04:53+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>This is an example of a Tumblr-like external link post. You can simply add the following setting to your post front-matter field:</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Custom Heading Image</title>
+        <id>http://maxwellsvetlik.com/custom-heading-image.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-heading-image.html" />
+        <published>2014-02-01T00:00:00+00:00</published>
+
+        
+          <updated>2018-08-10T14:04:53+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;This is an example of custom post heading image. You can simply add the following setting to your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -2094,7 +3207,36 @@ css: |
           
         
       
-        </content><summary>This is an example of custom post heading image. You can simply add the following setting to your post front-matter field:</summary></entry><entry><title>Custom Heading Background</title><id>http://maxwellsvetlik.com/custom-heading-background.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-heading-background.html" /><published>2014-02-01T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>This is an example of custom post heading image. You can simply add the following setting to your post front-matter field:</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Custom Heading Background</title>
+        <id>http://maxwellsvetlik.com/custom-heading-background.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/custom-heading-background.html" />
+        <published>2014-02-01T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;This is an example of custom heading background. You can simply add the following setting to your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -2133,7 +3275,36 @@ css: |
           
         
       
-        </content><summary>This is an example of custom heading background. You can simply add the following setting to your post front-matter field:</summary></entry><entry><title>GitHub Pages Setup Guide</title><id>http://maxwellsvetlik.com/github-pages-setup.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/github-pages-setup.html" /><published>2014-01-01T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content>
+
+        
+          <summary>This is an example of custom heading background. You can simply add the following setting to your post front-matter field:</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>GitHub Pages Setup Guide</title>
+        <id>http://maxwellsvetlik.com/github-pages-setup.html</id>
+        <link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/github-pages-setup.html" />
+        <published>2014-01-01T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T07:30:46+00:00</updated>
+        
+
+        <author>
+          <name>Maxwell Svetlik</name>
+          <uri>https://maxsvetlik.github.io</uri>
+          <email>maxsvetlik@gmail.com</email>
+        </author>
+
+        <content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
 
@@ -2189,4 +3360,12 @@ css: |
           
         
       
-        </content><summary>The Problem</summary></entry></feed>
+        </content>
+
+        
+          <summary>The Problem</summary>
+        
+      </entry>
+    
+  
+</feed>
