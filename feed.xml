@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Maxwell Svetlik</title>
   <subtitle>Human Roboticist</subtitle>
-  <updated>2021-06-29T03:08:47+00:00</updated>
+  <updated>2021-06-29T22:46:45+00:00</updated>
   <id>http://maxwellsvetlik.com/</id>
   <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator>
 
@@ -488,7 +488,7 @@ The gcode is generated based on a parameterized file that specifies the physics 
         <published>2020-06-18T00:00:00+00:00</published>
 
         
-          <updated>2021-06-27T20:55:45+00:00</updated>
+          <updated>2021-06-29T22:39:39+00:00</updated>
         
 
         <author>
@@ -501,7 +501,8 @@ The gcode is generated based on a parameterized file that specifies the physics 
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/revel/revel_egg.jpg&quot; alt=&quot;Revel&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Designed and manufactured in the USA, Revel was the premiere robot product of my company &lt;a href=&quot;https://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;. It was designed to be capable robot arm for research and industry with an emphasis on affordability and low mass &amp;amp; electrical footprint.&lt;/p&gt;
+&lt;h2 id=&quot;an-affordable-robot-for-the-masses&quot;&gt;An affordable robot for the masses&lt;/h2&gt;
+&lt;p&gt;Designed and manufactured in the USA, Revel was the premiere robot product of my company &lt;a href=&quot;https://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;. It was designed to be capable robot arm for research and industry with an emphasis on affordability and simple mechanical &amp;amp; electrical integration.&lt;/p&gt;
 
 &lt;p&gt;Revel can carry 1.5 Kg at full reach, has a total reach of 63 cm, and can be taught quickly to automate tasks. Personally I have taught it to&lt;/p&gt;
 &lt;ul&gt;
@@ -511,11 +512,24 @@ The gcode is generated based on a parameterized file that specifies the physics 
   &lt;li&gt;automate CNC workflows (&lt;a href=&quot;https://www.youtube.com/watch?v=o8F8DLXMTv8&quot;&gt;watch&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;You can find technical details and promotional videos on Revel’s &lt;a href=&quot;https://svenzva.com/revel/&quot;&gt;product page&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;../assets/img/revel/revel3.jpg&quot; alt=&quot;Revel&quot; style=&quot;width:95%; height:95%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;For full technical details please visit Revel’s &lt;a href=&quot;https://svenzva.com/revel/&quot;&gt;product page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;software&quot;&gt;Software&lt;/h2&gt;
+&lt;p&gt;While there was emphasis on ROS integration, each of the motors were independently accessible through a standard serial connection for customers that didn’t utilize ROS. Our motors used firmware that had just been released and required an overhaul to the existing drivers. I rewrote the drivers to be &lt;a href=&quot;https://github.com/SvenzvaRobotics/mx_dynamixel&quot;&gt;compatible with the new firmware&lt;/a&gt; well before support was ever offered from the manufacturer. This was necessary to enable advanced control methods for the motors.&lt;/p&gt;
 
-&lt;h2 id=&quot;non-marketed-grippers&quot;&gt;Non-marketed Grippers&lt;/h2&gt;
+&lt;h3 id=&quot;ros&quot;&gt;ROS&lt;/h3&gt;
+&lt;p&gt;The Revel robot’s &lt;a href=&quot;https://github.com/SvenzvaRobotics/svenzva_ros&quot;&gt;ROS stack&lt;/a&gt; is fully fledged, with integration with &lt;a href=&quot;http://wiki.ros.org/ros_control&quot;&gt;ros_control&lt;/a&gt;, &lt;a href=&quot;https://moveit.ros.org/&quot;&gt;MoveIt&lt;/a&gt;, and &lt;a href=&quot;https://github.com/SvenzvaRobotics/svenzva_ros/tree/master/svenzva_joy&quot;&gt;joystick interfaces&lt;/a&gt; for cartesian control. The cartesian controller uses an generated inverse kinematic solution that can react to user input immediately.&lt;/p&gt;
+
+&lt;h3 id=&quot;kinesthetic-teaching&quot;&gt;Kinesthetic teaching&lt;/h3&gt;
+&lt;p&gt;The easiest way to train a robot is through Kinesthetic Teaching. The robot used a dynamics model (partially generated from Solidworks) that allowed it to react to outside forces while holding itself up under its own weight. This gravity compensation is crucial to being able to move the robot in space. Revel had a &lt;a href=&quot;https://github.com/SvenzvaRobotics/svenzva_ros/blob/master/svenzva_utils/src/svenzva_utils/kinesthetic_teaching_console.py&quot;&gt;Kinesthetic Interface&lt;/a&gt; that was wrapped around a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;curses&lt;/code&gt; style console menu.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/revel/9.jpg&quot; alt=&quot;Revel&quot; style=&quot;width:65%; height:65%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
 &lt;p&gt;Part of the appeal of the Revel Robotic Arm is that it is more customizable than traditional robot arms. A great example of that is add-on Gripper attachment that makes adding new gripper functionality simple and inexpensive.&lt;/p&gt;
 
 &lt;p&gt;Through precisely manufactured rack-and-pinion fingers, I designed and fabricated the attachments for&lt;/p&gt;
@@ -525,20 +539,9 @@ The gcode is generated based on a parameterized file that specifies the physics 
 - a vacuum suction gripper (see: https://a360.co/2VawAUk) 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;along with a sound isolated vacuum system that made pick-n-place tasks a breeze.&lt;/p&gt;
+&lt;p&gt;along with a sound isolated vacuum system that made pick-n-place tasks a breeze. You can check out the string art project &lt;a href=&quot;../robot-string-art&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/img/revel/revel_rotate.gif&quot; alt=&quot;Revel&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
-
-&lt;!--
-# Technical Details
-## Design Hardware
-Revel is made with aircraft-grade aluminum, machined and constructed in-house. 
-
-
-## Software Design
-Due to afforability and weight constraints, the motors used in the Revel arm do not actively sense torque exerted. Even so, Svenzva developed a dynamic model that allows the robot to be moved by an ourside force, like a human hand, while holding itself up under its own weight. 
---&gt;
-
 
           
           
@@ -853,7 +856,7 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
         <published>2020-06-18T00:00:00+00:00</published>
 
         
-          <updated>2021-06-27T20:17:29+00:00</updated>
+          <updated>2021-06-29T22:45:56+00:00</updated>
         
 
         <author>
@@ -864,11 +867,14 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
 
         <content type="html" xml:base="http://maxwellsvetlik.com/">
           
-            &lt;p&gt;An un-marketed product of &lt;a href=&quot;http://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.&lt;/p&gt;
+            &lt;h2 id=&quot;looking-toward-the-future&quot;&gt;Looking toward the future&lt;/h2&gt;
+&lt;p&gt;An un-marketed product of &lt;a href=&quot;http://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/img/animatronic_eyes/animatronic_eyes.jpg&quot; alt=&quot;Animatronic eyes&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The eyes have been designed to be constructed out of aluminum base parts or 3D printed Resin, while the eyes themselves are hand-painted by suppliers of animatronics parts. The motion in the video below is powered by the &lt;a href=&quot;https://www.pololu.com/product/1352&quot;&gt;Mini Maestro&lt;/a&gt; microcontroller. It also features independent, as well as synchronized, movement of the eyes.&lt;/p&gt;
+&lt;p&gt;The original design was for an aluminum construction for maximum robustness, with the eyes themselves hand-painted by USA-based artists. I have since reworked the design to be 3D printed out of engineering resin, allowing for high strength while greatly reducing the cost of manufacture. The design utilizes a 2 degree-of-freedom movement for each eye, actuating each axis by sliding the driving mechanism along a shaft along the rear of the eye.&lt;/p&gt;
+
+&lt;p&gt;The motion in the video below is powered by the &lt;a href=&quot;https://www.pololu.com/product/1352&quot;&gt;Mini Maestro&lt;/a&gt; microcontroller. It also features independent, as well as synchronized, movement of the eyes.&lt;/p&gt;
 
 &lt;video width=&quot;1280&quot; height=&quot;720&quot; controls=&quot;&quot;&gt;
 &lt;source src=&quot;../assets/img/animatronic_eyes/resin_motion.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -882,7 +888,7 @@ VIDEO NOT SUPPORTED
         </content>
 
         
-          <summary>An un-marketed product of Svenzva Robotics, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.</summary>
+          <summary>Looking toward the futureAn un-marketed product of Svenzva Robotics, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.</summary>
         
       </entry>
     
