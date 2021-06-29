@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Maxwell Svetlik</title><subtitle>Human Roboticist</subtitle><updated>2021-06-27T22:22:37+00:00</updated><id>http://maxwellsvetlik.com/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="http://maxwellsvetlik.com/" /><link rel="self" type="application/atom+xml" href="http://maxwellsvetlik.com/feed.xml" /><author><name>Maxwell Svetlik</name><uri>http://maxwellsvetlik.com/</uri><email>maxsvetlik@gmail.com</email></author><entry><title>Screen commands</title><id>http://maxwellsvetlik.com/using-screen.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/using-screen.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T20:56:59+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Maxwell Svetlik</title><subtitle>Human Roboticist</subtitle><updated>2021-06-29T02:52:36+00:00</updated><id>http://maxwellsvetlik.com/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="http://maxwellsvetlik.com/" /><link rel="self" type="application/atom+xml" href="http://maxwellsvetlik.com/feed.xml" /><author><name>Maxwell Svetlik</name><uri>http://maxwellsvetlik.com/</uri><email>maxsvetlik@gmail.com</email></author><entry><title>Screen commands</title><id>http://maxwellsvetlik.com/using-screen.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/using-screen.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T20:56:59+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;h2 id=&quot;linux-screen-command-reference&quot;&gt;Linux Screen command reference&lt;/h2&gt;
 
@@ -122,18 +122,17 @@ The issue is that knowing the message types apriori cuts against the premise of 
           
         
       
-        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Skylark Continuum Tendon Robot Arm</title><id>http://maxwellsvetlik.com/skylark.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/skylark.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T19:49:12+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Skylark Continuum Tendon Robot Arm</title><id>http://maxwellsvetlik.com/skylark.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/skylark.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-29T02:47:37+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/skylark/1.jpg&quot; alt=&quot;Skylark&quot; style=&quot;width:95%; height:95%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In an attempt to make a robot that is:&lt;/p&gt;
-&lt;center&gt;
-&lt;ul style=&quot;list-style:none;&quot;&gt;
-&lt;li&gt;safe for all users&lt;/li&gt;
-&lt;li&gt;easy to maintain&lt;/li&gt;
-&lt;li&gt;highly flexible&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/center&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- safe for all users
+- easy to maintain
+- highly flexible
+- is robust to a lot of abuse
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;my company &lt;a href=&quot;http://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt; developed a robot arm that utilizes steel tendons to drive its motion, rather than motors. In fact the robot requires no electricity and is actuated only by phyiscally moving controllers that tension and relax the cables that drive the robot.&lt;/p&gt;
 
@@ -304,24 +303,37 @@ Due to afforability and weight constraints, the motors used in the Revel arm do 
           
         
       
-        </content><summary></summary></entry><entry><title>Poli the Socially Intelligent Robot</title><id>http://maxwellsvetlik.com/poli-robot.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/poli-robot.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T19:31:09+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content><summary></summary></entry><entry><title>Poli the Socially Intelligent Robot</title><id>http://maxwellsvetlik.com/poli-robot.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/poli-robot.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-29T02:45:58+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
           
-            &lt;p&gt;While working as a Software Engineer at the &lt;a href=&quot;http://sim.ece.utexas.edu/research.html&quot;&gt;Socially Intelligent Machines Lab&lt;/a&gt; I lead the software and hardware integration on a new socially capable robot. This included writing ROS wrappers for components with existing drivers, writing drivers from scratch for those that did not, and writing a technical manual for users of the platform. The robot is currently patent-pending.&lt;/p&gt;
+            &lt;p&gt;&lt;img src=&quot;../assets/img/poli/poli_face.jpg&quot; alt=&quot;Poli face&quot; style=&quot;width:300px; height:300px; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While working as a Software Engineer at the &lt;a href=&quot;http://sim.ece.utexas.edu/research.html&quot;&gt;Socially Intelligent Machines Lab&lt;/a&gt; I lead the software and hardware integration on a new socially capable robot. The primary requirements were to design a robot that&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  - is mobile
+  - is autonomous
+  - has a robotic manipulator with a suitable workspace
+  - is socially expressive
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Due to time and budget constraints, many of the requirements were fulfilled through a design using commercial off-the-shelf components, like a RMP Segway base, a Kinova Jaco robotic arm on a linear actuator to expand the workspace. &lt;br /&gt;
+The social expression was achieved primarily through two additional areas: aesthetically through a semi-anthropomorphic design of a chest plate and actuated head unit, and an low-res LED facial display on the front of the head unit.&lt;/p&gt;
+
+&lt;p&gt;The development of the eye panel was my favorite part of the project, and required iterating on size and material for proper light diffusion. The end result was a panel and embedded controller that was able to quickly emote, which proved to greatly alter users’ perception of the robot. I also developed a LED face library for the embedded controller that would make it easy for researchers to add faces for user studies.&lt;/p&gt;
+
+&lt;p&gt;The hardware and software integration included writing ROS wrappers for components with existing drivers, writing drivers from scratch for those that did not, and writing a technical manual for users of the platform. The robot is currently patent-pending.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=p9QN0LiFrCc&quot;&gt;
    &lt;img src=&quot;https://img.youtube.com/vi/p9QN0LiFrCc/0.jpg&quot; alt=&quot;Poli Video&quot; style=&quot;width:55%; height:55%; margin-left: auto; margin-right:auto&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The design of the robot’s outward facing appearance was carefully iteraterated, as the robot would be used specifically for human robot interaction research.&lt;br /&gt;
-Part of the aesthetic design I am most pleased with is the development of the socially expressive eye panel, which has been shown to be useful in non-verbally communicating intent, while users and passer-bys are charmed by the low-resolution LED display.&lt;/p&gt;
+&lt;p&gt;You can see the robot (without its protective breastplate) in the video above, and the open source software repository &lt;a href=&quot;https://github.com/si-machines/poli2&quot;&gt;here&lt;/a&gt;. Overall the project was around 300,000 lines of code, and is a full-fledged autonomous robot software stack that enables the robot to navigate autonomously with obstacle detection and run in simulation. There was especial emphasis on making the system easy to run and “just work”.&lt;/p&gt;
 
-&lt;p&gt;You can see the robot (without its protective breastplate) in the video above, and the open source software repository &lt;a href=&quot;https://github.com/si-machines/poli2&quot;&gt;here&lt;/a&gt;. Overall the project was around 300,000 lines of code.&lt;/p&gt;
 
           
           
         
       
-        </content><summary>While working as a Software Engineer at the Socially Intelligent Machines Lab I lead the software and hardware integration on a new socially capable robot. This included writing ROS wrappers for components with existing drivers, writing drivers from scratch for those that did not, and writing a technical manual for users of the platform. The robot is currently patent-pending.</summary></entry><entry><title>Menuboard / Booth Dividers</title><id>http://maxwellsvetlik.com/pegboard-botth-dividers.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/pegboard-botth-dividers.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T16:55:50+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content><summary></summary></entry><entry><title>Menuboard / Booth Dividers</title><id>http://maxwellsvetlik.com/pegboard-botth-dividers.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/pegboard-botth-dividers.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T16:55:50+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
 
@@ -389,11 +401,11 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
           
         
       
-        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Brass Knox Guitar Bridge</title><id>http://maxwellsvetlik.com/brassknox-guitar-bridge.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/brassknox-guitar-bridge.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T22:21:27+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Brass Knox Guitar Bridge</title><id>http://maxwellsvetlik.com/brassknox-guitar-bridge.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/brassknox-guitar-bridge.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-29T02:20:17+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/brass_knox/2.jpg&quot; alt=&quot;Aluminum prototype&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The Brass Knox guitar bridge is an all-metal guitar bridge that is designed to be used on steel-stringed classical guitars and nominally turns the guitar into a harp with a fixed set of tones.&lt;/p&gt;
+&lt;p&gt;The Brass Knox guitar bridge is an all-metal auxillary guitar bridge that is designed to be used on steel-stringed acoustic guitars. The high action of the bridge prevents frets from being used along the neck and ostensibly turns the guitar into a 12-string harp with a fixed set of tones.&lt;/p&gt;
 
 &lt;p&gt;The bridge can be positioned and adjusted to accommodate a number of different open-string notes.&lt;/p&gt;
 
@@ -406,7 +418,32 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
           
         
       
-        </content><summary></summary></entry><entry><title>Multiagent Bluetooth Manager</title><id>http://maxwellsvetlik.com/bluetooth-manager.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/bluetooth-manager.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T19:32:19+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content><summary></summary></entry><entry><title>Animatronic Eyes</title><id>http://maxwellsvetlik.com/animatronic-eyes.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animatronic-eyes.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T20:17:29+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+          
+            &lt;p&gt;An un-marketed product of &lt;a href=&quot;http://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/animatronic_eyes/animatronic_eyes.jpg&quot; alt=&quot;Animatronic eyes&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The eyes have been designed to be constructed out of aluminum base parts or 3D printed Resin, while the eyes themselves are hand-painted by suppliers of animatronics parts. The motion in the video below is powered by the &lt;a href=&quot;https://www.pololu.com/product/1352&quot;&gt;Mini Maestro&lt;/a&gt; microcontroller. It also features independent, as well as synchronized, movement of the eyes.&lt;/p&gt;
+
+&lt;video width=&quot;1280&quot; height=&quot;720&quot; controls=&quot;&quot;&gt;
+&lt;source src=&quot;../assets/img/animatronic_eyes/resin_motion.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+VIDEO NOT SUPPORTED
+&lt;/video&gt;
+
+          
+          
+        
+      
+        </content><summary>An un-marketed product of Svenzva Robotics, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.</summary></entry><entry><title>Animated Illusions</title><id>http://maxwellsvetlik.com/animated-illusions.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animated-illusions.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-21T21:32:37+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+          
+            &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Multiagent Bluetooth Manager</title><id>http://maxwellsvetlik.com/bluetooth-manager.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/bluetooth-manager.html" /><published>2020-06-17T00:00:00+00:00</published><updated>2021-06-29T02:49:19+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;center&gt;
 &lt;a href=&quot;https://github.com/utexas-bwi/bluetooth_bridge&quot;&gt; Check out the project on GitHub &lt;/a&gt;
@@ -456,32 +493,7 @@ It has been tested and deployed on actual robots. Additional users would be help
           
         
       
-        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Animatronic Eyes</title><id>http://maxwellsvetlik.com/animatronic-eyes.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animatronic-eyes.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-27T20:17:29+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
-          
-            &lt;p&gt;An un-marketed product of &lt;a href=&quot;http://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/img/animatronic_eyes/animatronic_eyes.jpg&quot; alt=&quot;Animatronic eyes&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The eyes have been designed to be constructed out of aluminum base parts or 3D printed Resin, while the eyes themselves are hand-painted by suppliers of animatronics parts. The motion in the video below is powered by the &lt;a href=&quot;https://www.pololu.com/product/1352&quot;&gt;Mini Maestro&lt;/a&gt; microcontroller. It also features independent, as well as synchronized, movement of the eyes.&lt;/p&gt;
-
-&lt;video width=&quot;1280&quot; height=&quot;720&quot; controls=&quot;&quot;&gt;
-&lt;source src=&quot;../assets/img/animatronic_eyes/resin_motion.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-VIDEO NOT SUPPORTED
-&lt;/video&gt;
-
-          
-          
-        
-      
-        </content><summary>An un-marketed product of Svenzva Robotics, these animatronic eyes were designed to have each eye independently controllable and to be robust enough for use in a children’s museum exhibit. This design has subsequently been incorporated into custom products, such as an animated eye clock.</summary></entry><entry><title>Animated Illusions</title><id>http://maxwellsvetlik.com/animated-illusions.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/animated-illusions.html" /><published>2020-06-18T00:00:00+00:00</published><updated>2021-06-21T21:32:37+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
-          
-            &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
-
-          
-          
-        
-      
-        </content><summary>Coming soon to a screen near you</summary></entry><entry><title>Upgrading Guide from v1 to v2</title><id>http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html" /><published>2018-07-23T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
+        </content><summary> Check out the project on GitHub </summary></entry><entry><title>Upgrading Guide from v1 to v2</title><id>http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html</id><link rel="alternate" type="text/html" href="http://maxwellsvetlik.com/upgrading-from-v1-to-v2.html" /><published>2018-07-23T00:00:00+00:00</published><updated>2019-09-03T07:30:46+00:00</updated><author><name>Maxwell Svetlik</name><uri>https://maxsvetlik.github.io</uri><email>maxsvetlik@gmail.com</email></author><content type="html" xml:base="http://maxwellsvetlik.com/">
           
             &lt;p&gt;Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to &lt;a href=&quot;https://github.com/sparanoid/almace-scaffolding/pull/85&quot;&gt;this Pull Request&lt;/a&gt; side to side to make sure every change you made are synced correctly.&lt;/p&gt;
 
