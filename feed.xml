@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Maxwell Svetlik</title>
   <subtitle>Human Roboticist</subtitle>
-  <updated>2021-06-29T22:46:45+00:00</updated>
+  <updated>2021-06-29T22:50:33+00:00</updated>
   <id>http://maxwellsvetlik.com/</id>
   <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator>
 
@@ -488,7 +488,7 @@ The gcode is generated based on a parameterized file that specifies the physics 
         <published>2020-06-18T00:00:00+00:00</published>
 
         
-          <updated>2021-06-29T22:39:39+00:00</updated>
+          <updated>2021-06-29T22:50:00+00:00</updated>
         
 
         <author>
@@ -524,6 +524,8 @@ The gcode is generated based on a parameterized file that specifies the physics 
 
 &lt;h3 id=&quot;kinesthetic-teaching&quot;&gt;Kinesthetic teaching&lt;/h3&gt;
 &lt;p&gt;The easiest way to train a robot is through Kinesthetic Teaching. The robot used a dynamics model (partially generated from Solidworks) that allowed it to react to outside forces while holding itself up under its own weight. This gravity compensation is crucial to being able to move the robot in space. Revel had a &lt;a href=&quot;https://github.com/SvenzvaRobotics/svenzva_ros/blob/master/svenzva_utils/src/svenzva_utils/kinesthetic_teaching_console.py&quot;&gt;Kinesthetic Interface&lt;/a&gt; that was wrapped around a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;curses&lt;/code&gt; style console menu.&lt;/p&gt;
+
+&lt;p&gt;This menu was used for most released media for Revel. You can see how I used it for repeatability testing &lt;a href=&quot;https://www.youtube.com/watch?v=_Lgy9wlFQRw&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
