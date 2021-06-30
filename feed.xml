@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Maxwell Svetlik</title>
   <subtitle>Human Roboticist</subtitle>
-  <updated>2021-06-30T03:56:19+00:00</updated>
+  <updated>2021-06-30T04:33:39+00:00</updated>
   <id>http://maxwellsvetlik.com/</id>
   <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator>
 
@@ -488,7 +488,7 @@ The gcode is generated based on a parameterized file that specifies the physics 
         <published>2020-06-18T00:00:00+00:00</published>
 
         
-          <updated>2021-06-29T22:50:00+00:00</updated>
+          <updated>2021-06-30T04:24:35+00:00</updated>
         
 
         <author>
@@ -502,7 +502,7 @@ The gcode is generated based on a parameterized file that specifies the physics 
             &lt;p&gt;&lt;img src=&quot;../assets/img/revel/revel_egg.jpg&quot; alt=&quot;Revel&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;an-affordable-robot-for-the-masses&quot;&gt;An affordable robot for the masses&lt;/h2&gt;
-&lt;p&gt;Designed and manufactured in the USA, Revel was the premiere robot product of my company &lt;a href=&quot;https://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;. It was designed to be capable robot arm for research and industry with an emphasis on affordability and simple mechanical &amp;amp; electrical integration.&lt;/p&gt;
+&lt;p&gt;Designed and manufactured in the USA, Revel was the premiere robot product from my company &lt;a href=&quot;https://svenzva.com&quot;&gt;Svenzva Robotics&lt;/a&gt;. It was designed to be a capable robot arm for both research and industry with an emphasis on affordability and simple mechanical &amp;amp; electrical integration.&lt;/p&gt;
 
 &lt;p&gt;Revel can carry 1.5 Kg at full reach, has a total reach of 63 cm, and can be taught quickly to automate tasks. Personally I have taught it to&lt;/p&gt;
 &lt;ul&gt;
@@ -569,7 +569,7 @@ The gcode is generated based on a parameterized file that specifies the physics 
         <published>2020-06-18T00:00:00+00:00</published>
 
         
-          <updated>2021-06-29T02:45:58+00:00</updated>
+          <updated>2021-06-30T04:33:08+00:00</updated>
         
 
         <author>
@@ -582,7 +582,7 @@ The gcode is generated based on a parameterized file that specifies the physics 
           
             &lt;p&gt;&lt;img src=&quot;../assets/img/poli/poli_face.jpg&quot; alt=&quot;Poli face&quot; style=&quot;width:300px; height:300px; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;While working as a Software Engineer at the &lt;a href=&quot;http://sim.ece.utexas.edu/research.html&quot;&gt;Socially Intelligent Machines Lab&lt;/a&gt; I lead the software and hardware integration on a new socially capable robot. The primary requirements were to design a robot that&lt;/p&gt;
+&lt;p&gt;While working as a Software Engineer at the &lt;a href=&quot;http://sim.ece.utexas.edu/research.html&quot;&gt;Socially Intelligent Machines Lab&lt;/a&gt; I led the software and hardware integration on a new socially capable robot. The primary requirements were to design a robot that&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  - is mobile
   - is autonomous
@@ -590,10 +590,10 @@ The gcode is generated based on a parameterized file that specifies the physics 
   - is socially expressive
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Due to time and budget constraints, many of the requirements were fulfilled through a design using commercial off-the-shelf components, like a RMP Segway base, a Kinova Jaco robotic arm on a linear actuator to expand the workspace. &lt;br /&gt;
+&lt;p&gt;Due to time and budget constraints, many of the requirements were fulfilled through a design using commercial off-the-shelf components, like an RMP Segway base, a Kinova Jaco robotic arm on a linear actuator to expand the workspace. &lt;br /&gt;
 The social expression was achieved primarily through two additional areas: aesthetically through a semi-anthropomorphic design of a chest plate and actuated head unit, and an low-res LED facial display on the front of the head unit.&lt;/p&gt;
 
-&lt;p&gt;The development of the eye panel was my favorite part of the project, and required iterating on size and material for proper light diffusion. The end result was a panel and embedded controller that was able to quickly emote, which proved to greatly alter users’ perception of the robot. I also developed a LED face library for the embedded controller that would make it easy for researchers to add faces for user studies.&lt;/p&gt;
+&lt;p&gt;The development of the eye panel was my favorite part of the project, and required iterating on size and material for proper light diffusion. The end result was a panel and embedded controller that was able to quickly emote, which proved to greatly alter users’ perception of the robot. I also developed an LED face library for the embedded controller that would make it easy for researchers to add faces for user studies.&lt;/p&gt;
 
 &lt;p&gt;The hardware and software integration included writing ROS wrappers for components with existing drivers, writing drivers from scratch for those that did not, and writing a technical manual for users of the platform. The robot is currently patent-pending.&lt;/p&gt;
 
@@ -601,7 +601,7 @@ The social expression was achieved primarily through two additional areas: aesth
    &lt;img src=&quot;https://img.youtube.com/vi/p9QN0LiFrCc/0.jpg&quot; alt=&quot;Poli Video&quot; style=&quot;width:55%; height:55%; margin-left: auto; margin-right:auto&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You can see the robot (without its protective breastplate) in the video above, and the open source software repository &lt;a href=&quot;https://github.com/si-machines/poli2&quot;&gt;here&lt;/a&gt;. Overall the project was around 300,000 lines of code, and is a full-fledged autonomous robot software stack that enables the robot to navigate autonomously with obstacle detection and run in simulation. There was especial emphasis on making the system easy to run and “just work”.&lt;/p&gt;
+&lt;p&gt;You can see the robot (without its protective breastplate) in the video above, and the open source software repository &lt;a href=&quot;https://github.com/si-machines/poli2&quot;&gt;here&lt;/a&gt;. Overall the project was around 300,000 lines of code, and is a full-fledged ROS software stack that enables the robot to navigate autonomously with obstacle detection and run in simulation. There was a particular emphasis on making the system easy to run and “just work”.&lt;/p&gt;
 
 
           
@@ -886,7 +886,7 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
         <published>2020-06-18T00:00:00+00:00</published>
 
         
-          <updated>2021-06-29T22:45:56+00:00</updated>
+          <updated>2021-06-30T04:27:20+00:00</updated>
         
 
         <author>
@@ -902,7 +902,7 @@ It implements over 100 CPU codes to perform essential tasks like mathematic oper
 
 &lt;p&gt;&lt;img src=&quot;../assets/img/animatronic_eyes/animatronic_eyes.jpg&quot; alt=&quot;Animatronic eyes&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The original design was for an aluminum construction for maximum robustness, with the eyes themselves hand-painted by USA-based artists. I have since reworked the design to be 3D printed out of engineering resin, allowing for high strength while greatly reducing the cost of manufacture. The design utilizes a 2 degree-of-freedom movement for each eye, actuating each axis by sliding the driving mechanism along a shaft along the rear of the eye.&lt;/p&gt;
+&lt;p&gt;The original design consisted of an aluminum construction for maximum robustness and eyes hand-painted by USA-based artists. I have since reworked the design to be 3D printed out of engineering resin, retaining its high strength while also reducing the cost of manufacture. The design utilizes a 2 degree-of-freedom movement for each eye, actuating each axis by sliding the driving mechanism along a shaft along the rear of the eye.&lt;/p&gt;
 
 &lt;p&gt;The motion in the video below is powered by the &lt;a href=&quot;https://www.pololu.com/product/1352&quot;&gt;Mini Maestro&lt;/a&gt; microcontroller. It also features independent, as well as synchronized, movement of the eyes.&lt;/p&gt;
 
