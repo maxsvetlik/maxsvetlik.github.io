@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Maxwell Svetlik</title>
   <subtitle>Human Roboticist</subtitle>
-  <updated>2021-06-30T03:38:44+00:00</updated>
+  <updated>2021-06-30T03:56:19+00:00</updated>
   <id>http://maxwellsvetlik.com/</id>
   <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.21">Almace Scaffolding</generator>
 
@@ -665,7 +665,7 @@ The social expression was achieved primarily through two additional areas: aesth
         <published>2020-06-18T00:00:00+00:00</published>
 
         
-          <updated>2021-06-21T21:32:11+00:00</updated>
+          <updated>2021-06-30T03:55:55+00:00</updated>
         
 
         <author>
@@ -676,7 +676,17 @@ The social expression was achieved primarily through two additional areas: aesth
 
         <content type="html" xml:base="http://maxwellsvetlik.com/">
           
-            &lt;p&gt;Coming soon to a screen near you&lt;/p&gt;
+            &lt;p&gt;&lt;img src=&quot;../assets/img/hotbox/animation2.gif&quot; alt=&quot;Munchies for your Mind&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mind Munchies is an activity kit to expand your mind. It is my first venture in product design, and incorporates many visual and tactile elements to elicit childhood excitement. &lt;br /&gt;
+The box was made to be interactive and give a preview to one of the activities inside- animated illusions. By turning the circular dial, one can read the name of the activity box.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/hotbox/animation1.gif&quot; alt=&quot;Munchies for your Mind&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The activities included animated illusions, hand designed, with a kaleidoscope, diffraction glasses and an ooblek / non-newtonian fluid kit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/hotbox/1.jpg&quot; alt=&quot;Munchies for your Mind&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/img/hotbox/hotbox_bulk.jpg&quot; alt=&quot;Munchies for your Mind&quot; style=&quot;width:100%; height:100%; margin-left: auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
           
           
@@ -685,7 +695,7 @@ The social expression was achieved primarily through two additional areas: aesth
         </content>
 
         
-          <summary>Coming soon to a screen near you</summary>
+          <summary></summary>
         
       </entry>
     
