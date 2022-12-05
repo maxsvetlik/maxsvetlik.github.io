@@ -2,7 +2,8 @@
 layout: page
 title: Product Design
 ---
-
+## This page is a placeholder and is underconstruction
+<!-->
 ## Woodworking
 ### Cajon
 
@@ -19,3 +20,4 @@ title: Product Design
 ### Brass Knox Bridge
 
 ### Munchies for Your Mind
+-->
