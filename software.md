@@ -16,12 +16,14 @@ This was part of project [SMADS](https://smads.netlify.app) which was centered a
 I've worked on navigation automation stack for indoor environments for a number of entities and platforms. This includes Universities and companies such as Diligent Robotics and Svenzva Robotics.
 
 ## Visual Music
-Visual Music started as a commissioned art project which turned into a Web3 app. Originally started as a phyisical box to display _music_, **not** as a visualizer but as the sound waves itself.
+Visual Music started as a commissioned art project which turned into a Web3 app. Originally started as a physical box to display _music_, **not** as a synthesized visualizer but as a visualization of the sound itself.
 
 ### Hardware Box
-The box and the electronics within are completely custom. It allows laser display of sound using high-baud galvonometers. Details about the concept generally can be found in the webapp link that follows.
+The box and the electronics within are completely custom. It produces a laser display using high-baud galvonometers using sound as direct input.
+
 ![Revel: Repeatability](/public/seeingsound/boxes.jpg){: width="70%" }
 
 ### Web3 App
-The web app [VisualMusic](https://visualmusic.app/demo) takes the same concept as the box, but displays it in a browser. However, much is planned for the web app, including a live, interative component with the physical laser box. The app uses blockchain to give artists ownership over tracks that they can develop specifically for display.
+The web app [VisualMusic](https://visualmusic.app/demo) takes the same concept as the box, but displays it in a browser. However, much is planned for the web app, including a live, interactive component with the physical laser box. The app uses blockchain to give artists ownership over tracks that they can develop specifically for display.
 
+This is a project that was both an exploration in front end frameworks (specifically [Vue.js](https://vuejs.org)) as well as an excuse to delve into Web3.
