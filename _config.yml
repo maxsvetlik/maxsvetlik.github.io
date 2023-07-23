@@ -2,7 +2,7 @@
 title:               Maxwell Svetlik
 tagline:             ''
 description:         ''
-url:                 https://maxsvetlik.github.io
+url:                 https://www.maxwellsvetlik.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Maxwell Svetlik
-  url:               https://maxsvetlik.github.io
+  url:               https://www.maxwellsvetlik.com
   email:             max@maxwellsvetlik.com
 
 # Gems
